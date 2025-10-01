@@ -1,0 +1,15 @@
+{
+  "type": "pixelmon:infuser",
+  "ingredients": [
+    {
+      "item": "pixelmon:revive",
+      "count": 3
+    },
+    {
+      "item": "pixelmon:mago_berry"
+    }
+  ],
+  "results": {
+    "item": "pixelmon:max_revive"
+  }
+}
