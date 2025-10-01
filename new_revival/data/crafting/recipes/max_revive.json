@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pixelmon:revival_herb"
+    },
+    {
+      "item": "pixelmon:mago_berry"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pixelmon:max_revive"
+  }
+}
