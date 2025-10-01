@@ -2,11 +2,12 @@
   "type": "pixelmon:infuser",
   "ingredients": [
     {
-      "item": "pixelmon:revive",
-      "count": 3
+      "item": "pixelmon:mago_berry",
+      "count": 1
     },
     {
-      "item": "pixelmon:mago_berry"
+      "item": "pixelmon:revive",
+      "count": 3
     }
   ],
   "results": {
