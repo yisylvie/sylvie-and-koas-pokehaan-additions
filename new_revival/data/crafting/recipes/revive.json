@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "pixelmon:revival_herb"
+      "item": "pixelmon:heal_powder"
     },
     {
       "item": "minecraft:honey_bottle"

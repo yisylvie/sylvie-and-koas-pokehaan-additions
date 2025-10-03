@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": [
+        {
+            "item": "pixelmon:revival_herb"
+        }
+    ],
+    "experience": 0.35,
+    "cookingtime": 200,
+    "result": {
+        "item": "pixelmon:heal_powder"
+    }
+}
